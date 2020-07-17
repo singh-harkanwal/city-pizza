@@ -1,0 +1,6 @@
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../img/pizza.jpg");
+  min-height: 40vw !important;
+}

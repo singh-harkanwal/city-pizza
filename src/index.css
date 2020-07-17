@@ -1,0 +1,10 @@
+body, html {height: 100%;}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+.menu {display: none}
+
+.smimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("./img/half-pizza.jpg");
+  min-height: 20vw !important;
+}
